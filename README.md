@@ -44,6 +44,41 @@ Each team must upload their files inside their respective folder.
 
 ---
 
+## 🎯 PPT FORMAT INSTRUCTIONS (MANDATORY)
+
+All teams must strictly follow the PPT format guidelines given below:
+
+### 📌 PPT Design Requirements
+- Include **College Name and Logo** in the header
+- Mention **Department Name** in the header  
+  *(Refer to the Review Form shared in Drive for exact format)*
+
+---
+
+### 📄 PDF Conversion Instructions
+- Convert the PPT into **PDF format**
+- Each PDF page must contain **4–6 PPT slides in a single page**
+
+### 🖼️ How to Do It
+1. Open your final PPT
+2. Take a **screenshot of multiple slides (4–6 slides per screen)**  
+3. Paste the screenshot into a document (Word/PDF)
+4. Export/Save it as **PDF**
+
+---
+
+### ⚠️ Important Notes
+- Ensure all slides are **clearly visible and readable**
+- Maintain proper alignment and spacing
+- Do not submit individual slides as separate pages
+
+---
+
+❌ Incorrect: 1 slide per page  
+✅ Correct: 4–6 slides in one page (compressed view)
+
+---
+
 ## ⚠️ IMPORTANT INSTRUCTIONS
 
 - All documents must be **complete and properly signed**
