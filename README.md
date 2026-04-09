@@ -10,7 +10,7 @@ All teams must strictly follow the checklist below for both **Hardcopy** and **S
 ### 📄 Documents to Submit
 - [ ] PPT (Printed in **PDF format** as per given template)
 - [ ] Supervisor Interaction Form
-- [ ] Review Form
+- [ ] Review Form (0th review, 1st review, and 2nd review)
 - [ ] Evaluation Form
 
 ### 📊 Verification & Reports
@@ -25,8 +25,7 @@ All teams must strictly follow the checklist below for both **Hardcopy** and **S
   - [ ] Annexure Page
 
 ### 🎥 Demo Validation
-- [ ] Demo Video Presented to Guide  
-- [ ] Guide Satisfaction Proof (Signature on PPT print)
+- [ ] Demo Video Presented to Guide & Guide Satisfaction Proof (Signature on PPT print)
 
 ---
 
@@ -35,8 +34,41 @@ All teams must strictly follow the checklist below for both **Hardcopy** and **S
 - [ ] Final Full PPT  
 - [ ] Final Report  
 - [ ] Title with Abstract and Keywords Document  
-- [ ] Paper Submission Proof  
+- [ ] Paper Submission Proof
+- [ ] Roadmap
 
 ---
 
-## 📂 Folder Structure (Strictly Follow)
+
+Each team must upload their files inside their respective folder.
+
+---
+
+## ⚠️ IMPORTANT INSTRUCTIONS
+
+- All documents must be **complete and properly signed**
+- Upload only **final versions**
+- Do not modify or delete other team files
+- Follow proper file naming format:
+  - `AX_PPT.pdf`
+  - `AX_Report.pdf`
+  - `AX_Abstract.pdf`
+
+---
+
+## ❌ NOTE
+
+- Incomplete submissions will **not be accepted**
+- No last-minute submissions will be entertained
+
+---
+
+## ✅ FINAL CHECK
+
+Ensure both:
+- ✔ Hardcopy submission completed  
+- ✔ Softcopy uploaded successfully  
+
+---
+
+**Make sure everything is verified before submission. No exceptions.**
